@@ -4,6 +4,6 @@ function myfunction(firstName, lastName) {
         lastName
     }
 }
-console.log(myfunction('Mario', 'Rossi'))
+
 
 module.exports = myfunction
