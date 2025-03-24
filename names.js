@@ -5,3 +5,5 @@ function myfunction(firstName, lastName) {
     }
 }
 console.log(myfunction('Mario', 'Rossi'))
+
+module.exports = myfunction
